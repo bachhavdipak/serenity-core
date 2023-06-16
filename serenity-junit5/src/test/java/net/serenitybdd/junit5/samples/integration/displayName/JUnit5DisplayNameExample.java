@@ -13,6 +13,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 public class JUnit5DisplayNameExample {
 
+
     @Steps
     TestExample testExample;
 
